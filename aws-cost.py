@@ -1,4 +1,5 @@
 # /home/ec2-user/anaconda3
+# pip install boto3 xlsxwriter pandas openpyxl matplotlib
 import argparse
 import boto3
 from boto3 import client
